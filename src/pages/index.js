@@ -1,0 +1,6 @@
+export { default as Register } from "./Register" 
+export { default as Login } from "./Login" 
+export { default as PageNotFound } from "./PageNotFound" 
+export { default as AddTodo } from "./user/AddTodo" 
+export { default as Account } from "./user/Account" 
+export { default as Dashboard } from "./admin/Dashboard" 
